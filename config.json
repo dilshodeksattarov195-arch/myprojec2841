@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentderify",
+        "uuid": 23972358,
+        "checksum": "k0lx26"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
